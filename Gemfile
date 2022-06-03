@@ -20,6 +20,11 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Model has_secure_password
 gem 'bcrypt', '~> 3.1.7'
 
+gem 'devise'
+gem 'devise-bootstrap-views', '~> 1.0'
+gem 'iex-ruby-client'
+gem "font-awesome-rails"
+
 # net-smtp
 gem 'net-smtp', '~> 0.3.1'
 gem 'net-pop'
